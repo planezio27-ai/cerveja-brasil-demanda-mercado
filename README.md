@@ -61,4 +61,4 @@ cerveja-brasil-demanda-mercado/
 4. Execute os notebooks sequencialmente na pasta `notebooks/`.
 
 ---
-*Projeto desenvolvido como parte de um portfólio de Ciência de Dados orientada a negócios. Conecte-se comigo no [LinkedIn](www.linkedin.com/in/gianluca-planezio-97844a192).*
+*Projeto desenvolvido como parte de um portfólio de Ciência de Dados orientada a negócios. Conecte-se comigo no www.linkedin.com/in/gianluca-planezio-97844a192*
